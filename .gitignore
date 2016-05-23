@@ -1,2 +1,4 @@
 quickstart/node_modules
 quickstart/typings
+quickstart/app/*.js
+quickstart/app/*.js.map
